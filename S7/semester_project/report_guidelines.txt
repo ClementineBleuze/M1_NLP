@@ -1,0 +1,22 @@
+- careful with abbreviations (sometimes used, sometimes not), choose once and for all
+- restructure Introduction and Abstract: motivations must be real motivations, abstract should talk about the initial Wikipedia articles + clear announcement of our contribution at the end of the Introduction (bullet list)
+- more generally speaking, really justify our decisions ( not only "we did this, we did that")
+- results should really come at the end, not necessarily at the beginning
+- related works: ok but we should link it more precisely with what we are doing in the project
+- tenses: choose present or past (show/showed) once and for all
+- too straightforward transition from Intro to Corpora: we should better introduce or have mentionned Corpora issue earlier
+- useless Appendix
+- show explicitely what our work brings (results part) + analysis
+- experiments -> experimental setup with more info (because the section is too short)
+- give more semantic explanation of BLEU scores: we see the relative differences but are these scores good ? 
+- never a section with only one subsection
+
+For this report take care to have
+        - a bullet points list at the end of the introduction with your main contributions.
+        - You have 8 pages to present your work, starting with your 5 pages reports. Remind that it is no longer a project report but a scientific article. S one consistent in the writing (don’t use contractions in writing, if you introduce acronyms, use them…)
+        - abstract should not contain references and should scientifically ‘sell’ your work.
+        - the different sections of the article should be more or less balanced.
+2. Note that we ask you to write few words about the energy consumption of your work + ethical considerations.
+Theses two extra sections should appear after the 8 pages and before the Bibliography
+
+3. In most of your bibliography there are still a lot of errors. Please take care that each entry have the authors, title, year, conference/journal…
